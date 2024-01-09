@@ -14,4 +14,4 @@ export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500"
 
 export const LANGUAGES_AVAILABLE = [{identifier:"en", name:"English"}, {identifier:"hindi", name:"Hindi"}, {identifier:"german", name:"German"}]
 
-export const OPENAI_KEY = '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'
+export const OPENAI_KEY = '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'
